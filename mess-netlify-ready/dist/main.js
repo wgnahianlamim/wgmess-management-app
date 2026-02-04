@@ -1,0 +1,1 @@
+document.getElementById('root').innerText = 'Mess Management App';
